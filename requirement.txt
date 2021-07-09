@@ -1,4 +1,4 @@
-you will need the following package :
+you will need to install the following package :
 
 Win10Toast
 
