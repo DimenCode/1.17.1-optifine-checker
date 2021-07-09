@@ -3,3 +3,9 @@ you will need to install the following package :
 Win10Toast
 
 Request
+
+just do
+
+pip install win10toast
+
+pip install requests
